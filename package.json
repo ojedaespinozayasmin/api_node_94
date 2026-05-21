@@ -1,0 +1,11 @@
+{
+  "name": "api_node_94",
+  "version": "1.0.0",
+  "description": "proyecto idgs94",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yasmin Ojeda",
+  "license": "ISC"
+}
